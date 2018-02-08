@@ -1,3 +1,3 @@
-			IOS social media app for BasketBall Community
+				IOS social media app for BasketBall Community
 
-
+![Screenshot](ScreenShots/1.png)
